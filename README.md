@@ -1,10 +1,10 @@
-# Project 7 - *Name of App Here*
+# Project 7 - *Task App*
 
-Submitted by: **Your Name Here**
+Submitted by: **Sri Narendrula**
 
-**Name of your app** is an app that ... [TODO] 
+**Task App** is an app that ... makes customizable tasks and shows them in a calendar using a tab view
 
-Time spent: **X** hours spent in total
+Time spent: **4** hours spent in total
 
 ## Required Features
 
